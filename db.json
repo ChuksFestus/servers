@@ -1,0 +1,121 @@
+{
+	"leaners": [
+		{
+			"id": 1,
+			"picture": "img/Chuks Festus.jpg",
+			"name": "Chuks Festus",
+			"enrollment": "23:08:18",
+			"company": "SemlessHR",
+			"progress": 80,
+			"login": "23rd June 2018",
+			"time": "13:45"
+		},
+		{
+			"id": 2,
+			"picture": "img/face1.jpg",
+			"name": "Ervin Howell",
+			"enrollment": "20:07:18",
+			"company": "Deckow-Crist",
+			"progress": 20,
+			"login": "21rd June 2018",
+			"time": "1:45"
+		}
+	],
+	"activities": [
+		{
+			"name": "Heidi Mendoza",
+			"activity": "Commented on",
+			"image": "./img/face1.jpg",
+			"course": "introduction to HTML",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
+		},
+		{
+			"name": "Melvin Payne",
+			"activity": "Posted on",
+			"image": "./img/face10.jpg",
+			"course": "Management",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
+		},
+		{
+			"name": "Ryan Olson",
+			"activity": "Commented on",
+			"image": "./img/face11.jpg",
+			"course": "introduction to HTML",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
+		},
+		{
+			"name": "Elsie Richardson",
+			"activity": "Posted on",
+			"image": "./img/face13.jpg",
+			"course": "UI/UX",
+			"comment":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
+		}
+	],
+	"todo": [
+		{
+			"userId": 1,
+			"id": 1,
+			"title": "delectus aut autem",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 2,
+			"title": "quis ut nam facilis et officia qui",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 3,
+			"title": "fugiat veniam minus",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 4,
+			"title": "et porro tempora",
+			"completed": true
+		},
+		{
+			"userId": 1,
+			"id": 5,
+			"title":
+				"laboriosam mollitia et enim quasi adipisci quia provident illum",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 6,
+			"title": "qui ullam ratione quibusdam voluptatem quia omnis",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 7,
+			"title": "illo expedita consequatur quia in",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 8,
+			"title": "quo adipisci enim quam ut ab",
+			"completed": true
+		},
+		{
+			"userId": 1,
+			"id": 9,
+			"title": "molestiae perspiciatis ipsa",
+			"completed": false
+		},
+		{
+			"userId": 1,
+			"id": 10,
+			"title": "illo est ratione doloremque quia maiores aut",
+			"completed": true
+		}
+	]
+}
