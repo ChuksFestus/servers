@@ -2,7 +2,8 @@
 	"leaners": [
 		{
 			"id": 1,
-			"picture": "img/Chuks Festus.jpg",
+			"picture":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face19.jpg",
 			"name": "Chuks Festus",
 			"enrollment": "23:08:18",
 			"company": "SemlessHR",
@@ -12,7 +13,8 @@
 		},
 		{
 			"id": 2,
-			"picture": "img/face1.jpg",
+			"picture":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face1.jpg",
 			"name": "Ervin Howell",
 			"enrollment": "20:07:18",
 			"company": "Deckow-Crist",
@@ -25,7 +27,8 @@
 		{
 			"name": "Heidi Mendoza",
 			"activity": "Commented on",
-			"image": "./img/face1.jpg",
+			"image":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face7.jpg",
 			"course": "introduction to HTML",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
@@ -33,7 +36,8 @@
 		{
 			"name": "Melvin Payne",
 			"activity": "Posted on",
-			"image": "./img/face10.jpg",
+			"image":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face10.jpg",
 			"course": "Management",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
@@ -41,7 +45,8 @@
 		{
 			"name": "Ryan Olson",
 			"activity": "Commented on",
-			"image": "./img/face11.jpg",
+			"image":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face11.jpg",
 			"course": "introduction to HTML",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
@@ -49,7 +54,8 @@
 		{
 			"name": "Elsie Richardson",
 			"activity": "Posted on",
-			"image": "./img/face13.jpg",
+			"image":
+				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face13.jpg",
 			"course": "UI/UX",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
