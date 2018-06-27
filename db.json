@@ -123,5 +123,35 @@
 			"title": "illo est ratione doloremque quia maiores aut",
 			"completed": true
 		}
+	],
+	"courses": [
+		{
+			"courseID": 1,
+			"courseS":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/login_1.jpg"
+		},
+		{
+			"courseID": 2,
+			"course":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg"
+		},
+		{
+			"courseID": 3,
+			"course":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-7.jpg"
+		},
+		{
+			"courseID": 3,
+			"course":
+				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-6.jpg"
+		}
 	]
 }
