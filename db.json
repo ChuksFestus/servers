@@ -127,7 +127,7 @@
 	"courses": [
 		{
 			"courseID": 1,
-			"courseS":
+			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/login_1.jpg"
@@ -140,7 +140,7 @@
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg"
 		},
 		{
-			"courseID": 3,
+			"courseID": 4,
 			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
 			"courseImage":
