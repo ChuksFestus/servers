@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"picture":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face19.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998577/face25.jpg",
 			"name": "Chuks Festus",
 			"enrollment": "23:08:18",
 			"company": "SemlessHR",
@@ -14,7 +14,7 @@
 		{
 			"id": 2,
 			"picture":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face1.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998574/face14.jpg",
 			"name": "Ervin Howell",
 			"enrollment": "20:07:18",
 			"company": "Deckow-Crist",
@@ -28,7 +28,7 @@
 			"name": "Heidi Mendoza",
 			"activity": "Commented on",
 			"image":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face7.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg",
 			"course": "introduction to HTML",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
@@ -37,7 +37,7 @@
 			"name": "Melvin Payne",
 			"activity": "Posted on",
 			"image":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face10.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998576/course-2.jpg",
 			"course": "Management",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
@@ -46,7 +46,7 @@
 			"name": "Ryan Olson",
 			"activity": "Commented on",
 			"image":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face11.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998575/course-1b.jpg",
 			"course": "introduction to HTML",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus, vel."
@@ -55,7 +55,7 @@
 			"name": "Elsie Richardson",
 			"activity": "Posted on",
 			"image":
-				"http://res.cloudinary.com/daga1o0uv/image/upload/v1529998578/face13.jpg",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998575/course-1.jpg",
 			"course": "UI/UX",
 			"comment":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt natus, incidunt nulla."
@@ -129,29 +129,25 @@
 			"courseID": 1,
 			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
-			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/login_1.jpg"
+			"courseImage": "img/login_1.jpg"
 		},
 		{
 			"courseID": 2,
 			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
-			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg"
+			"courseImage": "img/register_1.jpg"
 		},
 		{
 			"courseID": 4,
 			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
-			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-7.jpg"
+			"courseImage": "img/img-7.jpg"
 		},
 		{
 			"courseID": 3,
 			"course":
 				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
-			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-6.jpg"
+			"courseImage": "img/img-6.jpg"
 		}
 	]
 }
