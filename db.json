@@ -127,31 +127,35 @@
 	"courses": [
 		{
 			"courseID": 1,
-			"course":
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseTitle": "Digital marketing",
+			"courseDist":
+				"Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530289272/pexels-photo-266176.jpg"
+		},
+		{
+			"courseID": 2,
+			"courseTitle": "intro to computer science",
+			"courseDist":
+				"An alternate, more succinct definition of computer science is the study of automating algorithmic processes that scale. A computer scientist specializes in the theory of computation and the design of computational systems.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg"
 		},
 		{
-			"courseID": 2,
-			"course":
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseID": 3,
+			"courseTitle": "human resource management",
+			"courseDist":
+				"Human resource management (HRM or HR) is the strategic approach to the effective management of organization workers so that they help the business gain a competitive advantage, Commonly referred to as the HR Department, it is designed to maximize employee performance in service of an employer's strategic objectives.",
 			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/login_1.jpg"
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998579/img-3.jpg"
 		},
 		{
 			"courseID": 4,
-			"course":
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
+			"courseTitle": "data science",
+			"courseDist":
+				"Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.",
 			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-7.jpg"
-		},
-		{
-			"courseID": 3,
-			"course":
-				"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis, perspiciatis.",
-			"courseImage":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-6.jpg"
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-4.jpg"
 		}
 	]
 }
