@@ -3,9 +3,9 @@
 		{
 			"id": 1,
 			"picture":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998577/face25.jpg",
-			"name": "Chuks Festus",
-			"enrollment": "23:08:18",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530625310/pexels-photo-1191489.jpeg.jpg",
+			"name": "Abimbola Johnson",
+			"points": "4050",
 			"company": "SemlessHR",
 			"progress": 80,
 			"login": "23rd June 2018",
@@ -14,9 +14,31 @@
 		{
 			"id": 2,
 			"picture":
-				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998574/face14.jpg",
-			"name": "Ervin Howell",
-			"enrollment": "20:07:18",
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530625509/pexels-photo-898520.jpg",
+			"name": "Bimpe Okoro",
+			"points": "8950",
+			"company": "Deckow-Crist",
+			"progress": 20,
+			"login": "21rd June 2018",
+			"time": "1:45"
+		},
+		{
+			"id": 3,
+			"picture":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530625661/pexels-photo-428333.jpg",
+			"name": "Olanrenwaju Oreoluwa",
+			"points": "7450",
+			"company": "Deckow-Crist",
+			"progress": 20,
+			"login": "21rd June 2018",
+			"time": "1:45"
+		},
+		{
+			"id": 4,
+			"picture":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530625768/pexels-photo-235355.jpg",
+			"name": "Babatope Oni",
+			"points": "950",
 			"company": "Deckow-Crist",
 			"progress": 20,
 			"login": "21rd June 2018",
