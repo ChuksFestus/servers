@@ -150,6 +150,7 @@
 		{
 			"courseID": 1,
 			"courseTitle": "Digital marketing",
+			"percentage": "50",
 			"courseDist":
 				"Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.",
 			"courseImage":
@@ -158,6 +159,7 @@
 		{
 			"courseID": 2,
 			"courseTitle": "intro to computer science",
+			"percentage": "45",
 			"courseDist":
 				"An alternate, more succinct definition of computer science is the study of automating algorithmic processes that scale. A computer scientist specializes in the theory of computation and the design.",
 			"courseImage":
@@ -166,6 +168,7 @@
 		{
 			"courseID": 3,
 			"courseTitle": "human resource management",
+			"percentage": "90",
 			"courseDist":
 				"Human resource management (HRM or HR) is the strategic approach to the effective management of organization workers so that they help the business gain a competitive advantage",
 			"courseImage":
@@ -174,6 +177,7 @@
 		{
 			"courseID": 4,
 			"courseTitle": "data science",
+			"percentage": "60",
 			"courseDist":
 				"interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.",
 			"courseImage":
