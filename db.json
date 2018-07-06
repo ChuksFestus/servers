@@ -149,37 +149,46 @@
 	"courses": [
 		{
 			"courseID": 1,
-			"courseTitle": "Digital marketing",
+			"courseTitle": "PERFORMANCE MEASUREMENT ",
 			"percentage": "50",
 			"courseDist":
-				"Digital marketing is the marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.",
+				"Performance measurement is the process of collecting, analyzing and/or reporting information regarding the performance of an individual, group, organization, system or component. It can involve studying processes/strategies within organizations, or studying engineering processes/parameters/phenomena, to see whether output are in line with what was intended or should have been achieved.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1530289272/pexels-photo-266176.jpg"
 		},
 		{
 			"courseID": 2,
-			"courseTitle": "intro to computer science",
+			"courseTitle": "Performance Attribution",
 			"percentage": "45",
 			"courseDist":
-				"An alternate, more succinct definition of computer science is the study of automating algorithmic processes that scale. A computer scientist specializes in the theory of computation and the design.",
+				"Attribution analysis is performance-evaluation tool used to analyze the ability of portfolio and fund managers. Attribution analysis uncovers the impact of the manager's investment decisions with regard to overall investment policy, asset allocation, security selection and activity. In this type of analysis, a fund or portfolio's returns are compared to a benchmark to determine whether a manager is skilled or just lucky.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998581/register_1.jpg"
 		},
 		{
 			"courseID": 3,
-			"courseTitle": "human resource management",
+			"courseTitle": "Performance Appraisal and  Manager Selection",
 			"percentage": "90",
 			"courseDist":
-				"Human resource management (HRM or HR) is the strategic approach to the effective management of organization workers so that they help the business gain a competitive advantage",
+				"A performance appraisal is a regular review of an employee's job performance and overall contribution to a company. Also known as an 'annual review,'' 'performance review or evaluation,' or 'employee appraisal,' a performance appraisal evaluates an employee’s skills, achievements and growth, or lack thereof. Companies use performance appraisals to give employees big-picture feedback on their work and to justify pay increases and bonuses, as well as termination decisions. They can be conducted at any given time but tend to be annual, semi-annual or quarterly.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998579/img-3.jpg"
 		},
 		{
 			"courseID": 4,
-			"courseTitle": "data science",
+			"courseTitle": "Ethical Standards",
 			"percentage": "60",
 			"courseDist":
-				"interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, similar to data mining.",
+				"Principles that when followed, promote values such as trust, good behavior, fairness, and/or kindness. There is not one consistent set of standards that all companies follow, but each company has the right to develop the standards that are meaningful for their organization.",
+			"courseImage":
+				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-4.jpg"
+		},
+		{
+			"courseID": 5,
+			"courseTitle": "Performance Presentation and GIPS Standards",
+			"percentage": "60",
+			"courseDist":
+				"Standard performance presentation applies the guiding ethical principles of fair representation and full disclosure to the measurement and presentation of investment performance information. Much of the negative stigma associated with the money management business has to do with the marketing of performance returns in an effort to capture attention.",
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-4.jpg"
 		}
