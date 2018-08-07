@@ -197,16 +197,19 @@
 		{
 			"id": 1,
 			"assetName": "Bitcoin",
+			"assetImg": "https://marvel-live.freetls.fastly.net/canvas/2018/5/72a87b4f0bcb4095b5ce7ce70098bfbe?quality=95&fake=.png",
 			"codee": "btc"
 		},
 		{
 			"id": 2,
 			"assetName": "Ethereum",
+			"assetImg": "https://marvel-live.freetls.fastly.net/canvas/2018/5/4ae257ede993418c887e3673a2c28f0c?quality=95&fake=.png",
 			"codee": "ETH"
 		},
 		{
 			"id": 3,
 			"assetName": "Ripple",
+			"assetImg": "https://marvel-live.freetls.fastly.net/canvas/2018/5/7c331f3de90b469f98e545b301878390?quality=95&fake=.png",
 			"codee": "XRP"
 		}
 	]
