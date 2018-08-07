@@ -192,5 +192,22 @@
 			"courseImage":
 				"https://res.cloudinary.com/daga1o0uv/image/upload/v1529998580/img-4.jpg"
 		}
+	],
+	"Seed": [
+		{
+			"id": 1,
+			"assetName": "Bitcoin",
+			"codee": "btc"
+		},
+		{
+			"id": 2,
+			"assetName": "Ethereum",
+			"codee": "ETH"
+		},
+		{
+			"id": 3,
+			"assetName": "Ripple",
+			"codee": "XRP"
+		}
 	]
 }
